@@ -5,5 +5,5 @@
 
 1. Node/Express
 2. Mongoose
-3. mocha
+3. Nodemon & mocha
 
