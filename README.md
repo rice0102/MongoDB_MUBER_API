@@ -1,8 +1,10 @@
-# Muber
-  Create apis for a map app which shows drivers location like uber did.
+# Muber API
+  Create some apis for a map app which shows drivers location like uber did.
   
-  CURD api 
+  CURD metod
+  
   and geometry from MongoDB
+  
   
 # Tools
 
@@ -23,3 +25,5 @@
 or
 
 > npm run test
+
+
