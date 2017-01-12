@@ -7,3 +7,10 @@
 2. Mongoose
 3. Nodemon & mocha
 
+# Usage
+
+> npm install
+
+> nodemon index.js
+or
+> npm run test
