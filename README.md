@@ -1,10 +1,19 @@
 # Muber API
   Create some apis for a map app which shows drivers location like uber did.
   
-  CURD metod
+  CURD method
   
-  and geometry from MongoDB
+  and geoNear from Mongoose 
   
+  Model.geoNear(GeoJSON, options, [callback])
+  
+  > var point = { type : "Point", coordinates : [9,9] };
+
+  > Model.geoNear(point, { maxDistance : 5, spherical : true }, function(err, results, stats) {
+   
+  > console.log(results);
+  
+  > });
   
 # Tools
 
